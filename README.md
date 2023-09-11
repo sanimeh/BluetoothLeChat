@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BluetoothLeChat
 =======
 > **Warning**
